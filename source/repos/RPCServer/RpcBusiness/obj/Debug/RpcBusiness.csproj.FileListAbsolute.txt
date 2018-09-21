@@ -1,0 +1,14 @@
+c:\users\lenovo\source\repos\RPCServer\RpcBusiness\bin\Debug\RpcBusiness.dll
+c:\users\lenovo\source\repos\RPCServer\RpcBusiness\bin\Debug\RpcBusiness.pdb
+c:\users\lenovo\source\repos\RPCServer\RpcBusiness\obj\Debug\RpcBusiness.csprojResolveAssemblyReference.cache
+c:\users\lenovo\source\repos\RPCServer\RpcBusiness\obj\Debug\RpcBusiness.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\RPCServer\RpcBusiness\obj\Debug\RpcBusiness.dll
+c:\users\lenovo\source\repos\RPCServer\RpcBusiness\obj\Debug\RpcBusiness.pdb
+C:\Users\LENOVO\source\repos\RPCServer\RpcBusiness\bin\Debug\RabbitMQ.Client.dll
+C:\Users\LENOVO\source\repos\RPCServer\RpcBusiness\bin\Debug\RabbitMQ.Client.xml
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RpcBusiness\bin\Debug\RpcBusiness.dll
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RpcBusiness\bin\Debug\RpcBusiness.pdb
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RpcBusiness\obj\Debug\RpcBusiness.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RpcBusiness\obj\Debug\RpcBusiness.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RpcBusiness\obj\Debug\RpcBusiness.dll
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RpcBusiness\obj\Debug\RpcBusiness.pdb

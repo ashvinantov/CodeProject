@@ -1,0 +1,41 @@
+c:\users\lenovo\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.deps.json
+c:\users\lenovo\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.runtimeconfig.json
+c:\users\lenovo\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.runtimeconfig.dev.json
+c:\users\lenovo\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.dll
+c:\users\lenovo\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.pdb
+c:\users\lenovo\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RabbitMQ.Client.dll
+c:\users\lenovo\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RabbitMQ.Client.xml
+c:\users\lenovo\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.csprojResolveAssemblyReference.cache
+c:\users\lenovo\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.AssemblyInfoInputs.cache
+c:\users\lenovo\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.AssemblyInfo.cs
+c:\users\lenovo\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.dll
+c:\users\lenovo\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.pdb
+c:\users\lenovo\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RpcBusiness.dll
+c:\users\lenovo\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RpcBusiness.pdb
+C:\Users\LENOVO\Desktop\Latest - Copy\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.deps.json
+C:\Users\LENOVO\Desktop\Latest - Copy\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Latest - Copy\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Latest - Copy\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.dll
+C:\Users\LENOVO\Desktop\Latest - Copy\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.pdb
+C:\Users\LENOVO\Desktop\Latest - Copy\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RpcBusiness.dll
+C:\Users\LENOVO\Desktop\Latest - Copy\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RpcBusiness.pdb
+C:\Users\LENOVO\Desktop\Latest - Copy\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Latest - Copy\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Latest - Copy\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Latest - Copy\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Latest - Copy\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.dll
+C:\Users\LENOVO\Desktop\Latest - Copy\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.pdb
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.deps.json
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.runtimeconfig.json
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.dll
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.pdb
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RpcBusiness.dll
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RPCServer\bin\Debug\netcoreapp2.0\RpcBusiness.pdb
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.dll
+C:\Users\LENOVO\Desktop\LatestCopy\source\repos\RPCServer\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.pdb

@@ -1,0 +1,7 @@
+c:\users\lenovo\source\repos\xml\xml\bin\Debug\xml.exe.config
+c:\users\lenovo\source\repos\xml\xml\bin\Debug\xml.exe
+c:\users\lenovo\source\repos\xml\xml\bin\Debug\xml.pdb
+c:\users\lenovo\source\repos\xml\xml\obj\Debug\xml.csprojResolveAssemblyReference.cache
+c:\users\lenovo\source\repos\xml\xml\obj\Debug\xml.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\xml\xml\obj\Debug\xml.exe
+c:\users\lenovo\source\repos\xml\xml\obj\Debug\xml.pdb
